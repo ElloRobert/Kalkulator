@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\bin\Debug\net6.0\Kalkulator.exe
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\bin\Debug\net6.0\Kalkulator.runtimeconfig.json
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.cs
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\Kalkulator.genruntimeconfig.cache
+C:\Users\rober\Desktop\Projekti\c#\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll
